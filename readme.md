@@ -19,7 +19,7 @@ To show your age, fill in the shortcode attributes with your birth date. Example
 suppose I was a millenium baby, born on the first of January, 2000. I would show
 my age with:
 
-    I am [get_age year"2000" month="01" day="01"] old.
+    I am [get_age year="2000" month="01" day="01"] old.
     
 In 2013 this would show my age as
 
